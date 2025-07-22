@@ -15,8 +15,8 @@ The **Blood Donor Predictor** is a machine learning project that predicts **dono
 
 ## Tech Stack
 - **Language:** Python  
-- **Libraries:** Scikit-learn, Pandas, NumPy, Matplotlib (for evaluation plots)  
-- **Model:** Random Forest (tuned)  
+- **Libraries:** Scikit-learn, Pandas, NumPy, Matplotlib  
+- **Model:**  comparitive( Logistic Regression and Decision Tree Classifier)
 - **Environment:** Jupyter Notebook / Python scripts  
 - **Data Source:** Structured donor & recipient health records (CSV/DB export)
 
